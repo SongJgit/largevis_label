@@ -2,6 +2,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import argparse
+'''
+author = Song Jian
+'''
 
 # 参数块设置
 parser = argparse.ArgumentParser()
