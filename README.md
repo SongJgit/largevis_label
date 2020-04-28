@@ -1,5 +1,6 @@
 # largevis
-可视化标签，以及命令批量生成  
+可视化标签，以及命令批量生成 
+![results](https://github.com/SJiangit/largevis_label/blob/master/img/netscienceLBW_CFM_q_exp_6presentation_plot.png)
 ## special_plot
 用途：对largevis降维的数据进行标签可视化，为特殊节点加入标签  
 环境：Ubuntu、python2.7（自带）  
