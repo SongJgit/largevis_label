@@ -3,8 +3,11 @@ import matplotlib.pyplot as plt
 import argparse
 import os
 
-parser = argparse.ArgumentParser()
+'''
+author = Song Jian
+'''
 
+parser = argparse.ArgumentParser()
 parser.add_argument('-input', default = '', help = 'input file')
 parser.add_argument('-label', default = '', help = 'label file')
 parser.add_argument('-output', default = '', help = 'output file')
